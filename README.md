@@ -10,6 +10,8 @@ Projects:
 - **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the furure version. ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/master/0.1))
 - **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSparTV&layout=compact)](https://github.com/GitSparTV/github-readme-stats)
 
 Lua
