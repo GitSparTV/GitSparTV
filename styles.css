@@ -34,10 +34,10 @@ body {
 
 @media screen and (min-width: 1440px){
 	body {
-		font-size: 1.9vw;
+		font-size: 1.6vw;
 	}
 	.main {
-		width: 60%;
+		width: 52%;
 	}
 	.center {
 		font-size: 1.7vw;
