@@ -2,6 +2,8 @@
 
 Discord: Spar#6665
 
+Email: developspartv@gmail.com
+
 Projects:
 -
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns/)** — A tool to learn and analyze Lua Patterns.
