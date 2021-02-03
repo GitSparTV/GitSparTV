@@ -1,0 +1,72 @@
+@charset "utf-8";
+
+body {
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.main {
+    margin: 0 auto;
+}
+
+.head {
+  background-color: #131313;	
+}
+
+.center {
+	text-align: center;
+}
+
+.headlogo {
+	padding-bottom: 10vmin;
+    padding-top: 10vmin;
+	max-height: 35vmin;
+}
+
+.headlogo img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-height: inherit;
+	max-width: -webkit-fill-available;
+}
+
+@media screen and (min-width: 1024px){
+	body {
+		font-size: 2.5vmin;
+	}
+	.main {
+		width: 70vmin;
+	}
+	h1 {
+		font-size: 8vmax;
+		font-weight: 400;
+	}
+}
+
+@media screen and (max-width: 1024px){
+	body {
+		font-size: 3.5vmin;
+	}
+	.main {
+		width: 70vmin;
+	}
+	h1 {
+		font-size: 6vmax;
+		font-weight: 400;
+	}
+}
+
+@media screen and (max-width: 425px){
+	body {
+		font-size: 4vmin;
+	}
+	.main {
+		width: 80vmin;
+	}
+	h1 {
+		font-size: 4em;
+		font-weight: 400;
+	}
+}
