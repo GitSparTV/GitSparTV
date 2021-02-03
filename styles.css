@@ -45,6 +45,12 @@ body {
 	font-size: 70%;
 }
 
+.paypal {
+	background: #ffc439;
+	border-radius: 4px;
+	padding: 0.4vh 20vw 0.4vh 20vw;
+}
+
 @media screen and (min-width: 1440px){
 	body {
 		font-size: 1.6vw;
