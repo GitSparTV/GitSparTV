@@ -8,10 +8,15 @@ Projects:
 - **[Lua Infographics](https://github.com/GitSparTV/lua-infographics)** — Collection of infographics dedicated to Lua. (Some serious and just for fun)
 - **[LuaJIT Benchmarks](https://gitspartv.github.io/LuaJIT-Benchmarks/)** — A page about optimizing Lua by benchmarking several variants of the same code and finding the best one (among them).
 - **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the furure version. ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/master/0.1))
-- **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server
+- **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server + Lua minidump read library
 - **[discordia-slash](https://github.com/GitSparTV/discordia-slash/tree/master)** — Discordia extension for slash commands.
+- **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
+- **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020
+- **[Globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
 
-[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="300">](https://gitspartv.github.io/GitSparTV/saythanks.html)
+---
+
+__[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="300">](https://gitspartv.github.io/GitSparTV/saythanks.html)__
 
 ---
 
