@@ -14,6 +14,8 @@ Projects:
 - **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020
 - **[Globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
 
+[See all repositories...](https://github.com/GitSparTV?tab=repositories)
+
 ---
 
 __[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="300">](https://gitspartv.github.io/GitSparTV/saythanks.html)__
