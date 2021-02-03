@@ -11,8 +11,8 @@ Projects:
 - **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server
 - **[discordia-slash](https://github.com/GitSparTV/discordia-slash/tree/master)** — Discordia extension for slash commands.
 
+[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="300">](https://gitspartv.github.io/GitSparTV/saythanks.html)
+
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSparTV&layout=compact)](https://github.com/GitSparTV/github-readme-stats)
-
-Lua
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSparTV&layout=compact)
