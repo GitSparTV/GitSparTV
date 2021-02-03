@@ -32,6 +32,39 @@ body {
 	max-width: -webkit-fill-available;
 }
 
+.box {
+    border: solid #121212;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 80%;
+}
+
+.box p {
+	margin-bottom: 0;
+	font-size: 70%;
+}
+
+input[type=number] {
+	padding: 5px;
+}
+
+input {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 120%;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
 @media screen and (min-width: 1440px){
 	body {
 		font-size: 1.6vw;
@@ -52,7 +85,7 @@ body {
 
 @media screen and (max-width: 1440px){
 	body {
-		font-size: 3.5vw;
+		font-size: 2.5vw;
 	}
 	.main {
 		width: 80%;
@@ -61,7 +94,7 @@ body {
 		font-size: 3vw;
 	}
 	h1 {
-		font-size: 6em;
+		font-size: 4em;
 		margin-block-start: 0.1em;
 		margin-block-end: 0.1em;
 		font-weight: 400;
