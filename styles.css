@@ -32,38 +32,51 @@ body {
 	max-width: -webkit-fill-available;
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1440px){
 	body {
-		font-size: 2.5vmin;
+		font-size: 1.9vw;
 	}
 	.main {
-		width: 70vmin;
+		width: 60%;
+	}
+	.center {
+		font-size: 1.7vw;
 	}
 	h1 {
-		font-size: 8vmax;
+		font-size: 7vw;
+		margin-block-start: 0.3em;
+		margin-block-end: 0.3em;
 		font-weight: 400;
 	}
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1440px){
 	body {
-		font-size: 3.5vmin;
+		font-size: 3.5vw;
 	}
 	.main {
-		width: 70vmin;
+		width: 80%;
+	}
+	.center {
+		font-size: 3vw;
 	}
 	h1 {
-		font-size: 6vmax;
+		font-size: 6em;
+		margin-block-start: 0.1em;
+		margin-block-end: 0.1em;
 		font-weight: 400;
 	}
 }
 
 @media screen and (max-width: 425px){
 	body {
-		font-size: 4vmin;
+		font-size: 4vw;
 	}
 	.main {
-		width: 80vmin;
+		width: 80vw;
+	}
+	.center {
+		font-size: 3.5vw;
 	}
 	h1 {
 		font-size: 4em;
