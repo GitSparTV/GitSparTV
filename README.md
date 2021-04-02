@@ -4,7 +4,7 @@ Discord: Spar#6665
 
 Email: developspartv@gmail.com
 
-Projects:
+My Projects:
 -
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns/)** — A tool to learn and analyze Lua Patterns.
 - **[Lua Infographics](https://github.com/GitSparTV/lua-infographics)** — Collection of infographics dedicated to Lua. (Some serious and just for fun)
@@ -15,8 +15,12 @@ Projects:
 - **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
 - **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020
 - **[Globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
+- **[My GMod Libraries]()** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
 
 [See all repositories...](https://github.com/GitSparTV?tab=repositories)
+
+Projects I participated in:
+- **[VSCode GLua Extension](https://github.com/WilliamVenner/vscode-glua-enhanced)** — Helped with making bytecode heatmap, uses **[LLLua](https://github.com/GitSparTV/LLLua/)** bytecode reader rewritten in JS.
 
 ---
 
