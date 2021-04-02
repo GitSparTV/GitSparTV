@@ -15,7 +15,7 @@ My Projects:
 - **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
 - **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020
 - **[Globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
-- **[My GMod Libraries]()** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
+- **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
 
 [See all repositories...](https://github.com/GitSparTV?tab=repositories)
 
