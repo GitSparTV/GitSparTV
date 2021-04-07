@@ -93,18 +93,19 @@ My contributions:
 - **[table.insert doesn't check for NaN](https://github.com/LuaJIT/LuaJIT/issues/639)**
 - **[table.sort doesn't support yielding](https://github.com/LuaJIT/LuaJIT/issues/597)**
 
-**FPtje/Sublime-GLua-Highlight**
-- **[Proper escape sequences](https://github.com/FPtje/Sublime-GLua-Highlight/issues/46)**
-- **[Add label highlighting](https://github.com/FPtje/Sublime-GLua-Highlight/issues/47)**
-
 **FPtje/GLuaFixer**
 - **[Quesiton about `goto` warning](https://github.com/FPtje/GLuaFixer/issues/84)**
 - **[Treat semicolon in the table constructor as newline](https://github.com/FPtje/GLuaFixer/issues/82)**
+- **[String escape \z doesn't work properly](https://github.com/FPtje/GLuaFixer/issues/100)**
 - **[Empty table constructor has a space between the brackets](https://github.com/FPtje/GLuaFixer/issues/83)**
 - **[Add binary literals](https://github.com/FPtje/GLuaFixer/issues/88)**
 - **[Wrong scope](https://github.com/FPtje/GLuaFixer/issues/86)**
 - **[ARM build error](https://github.com/FPtje/GLuaFixer/issues/85)**
 - **[./AGGenerator.sh error](https://github.com/FPtje/GLuaFixer/issues/91)**
+
+**FPtje/Sublime-GLua-Highlight**
+- **[Proper escape sequences](https://github.com/FPtje/Sublime-GLua-Highlight/issues/46)**
+- **[Add label highlighting](https://github.com/FPtje/Sublime-GLua-Highlight/issues/47)**
 
 **discord/discord-api-docs**
 - **[default field doesn't work in any configuration](https://github.com/discord/discord-api-docs/issues/2393)**
