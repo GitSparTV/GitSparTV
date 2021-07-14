@@ -18,15 +18,22 @@ My Projects:
 - **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
 - **[LuaCUE](https://github.com/GitSparTV/LuaCUE)** — Corsair Utility Engine module for Lua written in C++.
 - **[SparTask](https://github.com/GitSparTV/SparTask)** — Windows taskbar replacement for focusing on specific task, allows to put only necessary icons.
+
 *[See all repositories...](https://github.com/GitSparTV?tab=repositories)*
+
+__[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="200">](https://gitspartv.github.io/GitSparTV/saythanks.html)__
 
 Projects I participated in:
 -
 - **[VSCode GLua Extension](https://github.com/WilliamVenner/vscode-glua-enhanced)** — Helped with making bytecode heatmap, uses **[LLLua](https://github.com/GitSparTV/LLLua/)** bytecode reader rewritten in JS.
 
----
+My Gists:
+-
+- **[C++ Iterators in Lua](https://gist.github.com/GitSparTV/474f71bc18b50e97664cc6db2d033cc8)**
 
-__[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/681727efe146af9a4f3042c121072d0e60bd3e95/saythanks.svg" width="200">](https://gitspartv.github.io/GitSparTV/saythanks.html)__
+*[See all gists...](https://gist.github.com/GitSparTV)*
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitSparTV&layout=compact)
 
