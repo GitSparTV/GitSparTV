@@ -30,6 +30,8 @@ Projects I participated in:
 My Gists:
 -
 - **[C++ Iterators in Lua](https://gist.github.com/GitSparTV/474f71bc18b50e97664cc6db2d033cc8)**
+- **[LuaJIT bytecode heatmap](https://gist.github.com/GitSparTV/5aa150d95241f9a9265c14d0af25c170)** — made in JS for VSCode GLua Extension
+- **[LuaJIT bytecode by-hand reading and analyzing](https://gist.github.com/GitSparTV/a0e36f2bc52badbce7723cb2e552285a)**
 
 *[See all gists...](https://gist.github.com/GitSparTV)*
 
