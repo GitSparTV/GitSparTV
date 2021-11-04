@@ -4,6 +4,8 @@ Discord: Spar#6665
 
 Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 
+[С++ Portfolio](https://github.com/GitSparTV/Yandex.Practicum.CPP)
+
 My Projects:
 -
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns)** — A tool to learn and analyze Lua Patterns.
