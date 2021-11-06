@@ -4,7 +4,8 @@ Discord: Spar#6665
 
 Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 
-[С++ Portfolio](https://github.com/GitSparTV/Yandex.Practicum.CPP)
+### [Lua Portfolio](https://github.com/GitSparTV/lua-portfolio.md)
+### [С++ Portfolio](https://github.com/GitSparTV/Yandex.Practicum.CPP)
 
 My Projects:
 -
