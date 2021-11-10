@@ -5,7 +5,7 @@ Discord: Spar#6665
 Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 
 ### [Lua Portfolio (not yet created)](lua-portfolio.md)
-### [С++ Portfolio](cpp-portfolio.md)
+### [С++ Portfolio (not yet created)](cpp-portfolio.md)
 
 My Projects:
 -
