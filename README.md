@@ -19,6 +19,7 @@ My Projects:
 - **[lua-postgres](https://github.com/GitSparTV/lua-postgres)** — WIP Luvit Postgres library, will be used by Toolgun bot.
 - **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
 - **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
+- **[University admission advisor](https://github.com/GitSparTV/GitSparTV/blob/main/lua-portfolio.md#unversity-admission-advisor)** — Bot written in Lua with VK API that downloads lists of applicants from different universities with my specialization, parses them and calculates the chance to pass.
 - **[UniBot](https://github.com/GitSparTV/Files/tree/master/UniBot)** — Bot written in Lua with VK API that gives information about the schedule, next lesson and other things.
 - **[Love2D Framework](https://github.com/GitSparTV/Files/tree/master/Love2D/Framework)** — Framework with GUI, timers and texture loading libraries based on GMod API.
 - **[LuaCUE](https://github.com/GitSparTV/LuaCUE)** — Corsair Utility Engine module for Lua written in C++.
@@ -110,7 +111,7 @@ My contributions:
 - **[table.sort doesn't support yielding](https://github.com/LuaJIT/LuaJIT/issues/597)**
 
 **FPtje/GLuaFixer**
-- **[Quesiton about `goto` warning](https://github.com/FPtje/GLuaFixer/issues/84)**
+- **[Question about `goto` warning](https://github.com/FPtje/GLuaFixer/issues/84)**
 - **[Treat semicolon in the table constructor as newline](https://github.com/FPtje/GLuaFixer/issues/82)**
 - **[String escape \z doesn't work properly](https://github.com/FPtje/GLuaFixer/issues/100)**
 - **[Empty table constructor has a space between the brackets](https://github.com/FPtje/GLuaFixer/issues/83)**
