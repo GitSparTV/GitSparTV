@@ -1,5 +1,5 @@
 # Lua Portfolio
-*See also: [C++ Portfolio](cpp-portfolio.md)*.
+*See also: **[C++ Portfolio](cpp-portfolio.md)***.
 
 ---
 
