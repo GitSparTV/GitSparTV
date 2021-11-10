@@ -4,7 +4,7 @@ Discord: Spar#6665
 
 Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 
-### [Lua Portfolio (dedicated page is in progress)](#my-projects)
+### [Lua Portfolio (work in progress)](lua-portfolio.md)
 ### [С++ Portfolio (dedicated page is in progress)](https://github.com/GitSparTV/Yandex.Practicum.CPP)
 
 My Projects:
@@ -19,6 +19,8 @@ My Projects:
 - **[lua-postgres](https://github.com/GitSparTV/lua-postgres)** — WIP Luvit Postgres library, will be used by Toolgun bot.
 - **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
 - **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
+- **[UniBot](https://github.com/GitSparTV/Files/tree/master/UniBot)** — Bot written in Lua with VK API that gives information about the schedule, next lesson and other things.
+- **[Love2D Framework](https://github.com/GitSparTV/Files/tree/master/Love2D/Framework)** — Framework with GUI, timers and texture loading libraries based on GMod API.
 - **[LuaCUE](https://github.com/GitSparTV/LuaCUE)** — Corsair Utility Engine module for Lua written in C++.
 - **[SparTask](https://github.com/GitSparTV/SparTask)** — Windows taskbar replacement for focusing on specific task, allows to put only necessary icons.
 
@@ -49,6 +51,8 @@ Small projects:
 - **[Advent Of Code 2020](https://github.com/GitSparTV/Files/tree/master/aoc2020)** — My solutions for [Advent Of Code 2020](https://adventofcode.com/2020) written in Lua.
 - **[Lua Error Statistics](https://github.com/GitSparTV/Files/tree/master/Facepunch%20Error%20Stats)** — Statistics of the most common errors reported by users on Facepunch forum.
 - **[globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
+- **[Langston's Ant Art](https://github.com/GitSparTV/Files/tree/master/Love2D/LangtonsAnt)** — Texture generator using Langston's Ant method, written in Love2D.
+- **[Bruteforcer for a task from School 21](https://github.com/GitSparTV/Files/tree/master/Love2D/School21)** — Task I failed to do by hand. Wrote a bruteforcer for it. Written in Love2D.
 - **[Lua Workshopper](https://github.com/GitSparTV/Files/tree/master/Lua%20Workshopper)** — My program for making Workshop addons more easier. Written in Lua.
 - **[Windows 10 Derma Skin](https://github.com/GitSparTV/Files/tree/master/Windows%2010%20Derma%20Skin)** — Example skin made for [my guide on GMod Wiki](https://wiki.facepunch.com/gmod/Derma_Skin_Creation).
 - **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020.
