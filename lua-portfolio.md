@@ -54,43 +54,7 @@ For example [top 25 popular .lua file names](https://github.com/GitSparTV/lua-in
 ---
 
 # Lua C API
-
-## lmemprof
-### *https://github.com/GitSparTV/lmemprof*
-
-Lua and LuaJIT library to profile memory consumption written in C++.
-
-Currenly just hooks into allocator using lua_setallocf.
-
-New concept will dump what structure exactly are sitting in the memory (like tables, strings, etc).
-
-## RemPos
-### *https://github.com/GitSparTV/gmsv_rempos*
-
-Garry's Mod C++ module written with evhttp (libevent) for Sensor Logger app for iOS.
-
-iOS app reads device accelerometer, gyroscope and magnetic field data and sends it to the server open by evhttp.
-
-evhttp saves the latest information about each parameter and informs Lua new data is available using multithreading.
-
-## LuaWheel
-### *https://github.com/GitSparTV/LuaWheel*
-
-Lua module written in C++ with Logitech Wheel SDK.
-
-Allows to get all parameters and fully control Logitech wheel.
-
-<details>
-  <summary>Demo in Love2D (click to show)</summary>
-  <p>
-    <img src="https://github.com/GitSparTV/LuaWheel/raw/master/LuaWheelDemo.gif">
-  </p>
-</details>
-
-## LuaCUE
-### *https://github.com/GitSparTV/LuaCUE*
-
-App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mices and keyboards).
+## *[See here](cpp-portfolio.md#lua_c_api)*
 
 ---
 
