@@ -144,3 +144,5 @@ My contributions:
 
 **sublimelsp/LSP-lua**
 - **[lua-language-server can't write/read settings file](https://github.com/sublimelsp/LSP-lua/issues/15)**
+
+[![HitCount](http://hits.dwyl.com/GitSparTV/GitSparTV.svg?style=flat)](http://hits.dwyl.com/GitSparTV/GitSparTV)
