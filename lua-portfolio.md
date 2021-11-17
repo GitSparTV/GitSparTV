@@ -5,7 +5,7 @@
 
 Started learning in 2017.
 
-Teaching and helping, code-reviewing since 2018. Read "Programming In Lua" book (made by Lua authors).
+Teaching and helping, code-reviewing since 2018. Read "Programming In Lua" book (written by Lua authors).
 
 Developing my own Lua course that covers everything from basic things up to Lua C API. (can be shown on a request).
 
