@@ -14,9 +14,9 @@ I also coded a Linux program, Arduino programs and modules with Lua C API.
 
 Projects I was making during Yandex.Praktikum "C++ Developer" course.
 
-Course teaches C++ fundamentals and idiomatics, from basic logic up to multithreading, move semantics, remaking STL containers and more.
+The course teaches C++ fundamentals and idiomatics, from basic logic up to multithreading, move semantics, remaking STL containers and more.
 
-To see more information see the repo page.
+To see more information, see the repo page.
 
 ## globalize
 ### *https://github.com/GitSparTV/globalize*
@@ -29,9 +29,9 @@ Simple C program that installs other program to /usr/local/bin/. Uses Linux API.
 
 Lua and LuaJIT library to profile memory consumption written in C++.
 
-Currenly just hooks into allocator using lua_setallocf.
+Currently, just hooks into allocator using lua_setallocf.
 
-New concept will dump what structure exactly are sitting in the memory (like tables, strings, etc).
+New concept will dump what structure exactly are sitting in the memory (like tables, strings, etc.).
 
 ## RemPos
 ### *https://github.com/GitSparTV/gmsv_rempos*
@@ -59,6 +59,6 @@ Allows to get all parameters and fully control Logitech wheel.
 ## LuaCUE
 ### *https://github.com/GitSparTV/LuaCUE*
 
-App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mices and keyboards).
+App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mice and keyboards).
 
 [![HitCount](http://hits.dwyl.com/GitSparTV/cpp-portfolio.svg?style=flat)](http://hits.dwyl.com/GitSparTV/cpp-portfolio)
