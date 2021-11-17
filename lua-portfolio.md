@@ -42,7 +42,7 @@ The 3rd edition will look like this:
 Site for analyzing and learning Lua pattern matching syntax.
 Written in JS, pattern matching lexer was taken from Lua source code.
 
-Currently shows explanation of the pattern, has hints, warnings and reports errors. Planned to add more features.
+Currently, shows explanation of the pattern, has hints, warnings and reports errors. Planned to add more features.
 
 ## Lua Infographics
 ### *https://github.com/GitSparTV/lua-infographics*
@@ -65,7 +65,7 @@ For example [top 25 popular .lua file names](https://github.com/GitSparTV/lua-in
 
 New language based on Lua, written in Lua and run on LuaJIT.
 
-The idea of the language is to bring static typing, templates, AOT compilation and evaluation, macros and metaprogramming. As the end result you get precompiled Lua chunk.
+The idea of the language is to bring static typing, templates, AOT compilation and evaluation, macros and metaprogramming. As the end result, you get a precompiled Lua chunk.
 
 <details>
   <summary>Example:</summary>
@@ -88,7 +88,7 @@ print(string.rep("a", 10))
 
 It originally was planned to make ASM-like language but for Lua that compiles to bytecode: [Version 0.1](https://github.com/GitSparTV/LLLua/tree/v0.1/0.1).
 
-Later on a pack of ideas was combined into [concept 1.0](https://github.com/GitSparTV/LLLua/blob/v0.1/CONCEPT.md).
+Later on, a pack of ideas was combined into [concept 1.0](https://github.com/GitSparTV/LLLua/blob/v0.1/CONCEPT.md).
 
 ## Libraries for Garry's Mod
 ### *https://github.com/GitSparTV/GmodLibraries*
@@ -135,9 +135,9 @@ It reports the end of the lesson, tells where the next lesson is, who is the spe
   </p>
 </details>
 
-## Unversity admission advisor
+## University admission advisor
 
-Before university bot I made a bot (with the same configuration) that was fetching admission lists from universities, parsing them, finding people across lists and calculating my chance to get passed for that speciality.
+Before university bot I made a bot (with the same configuration) that was fetching admission lists from universities, parsing them, finding people across lists and calculating my chance to get passed for that specialty.
 
 <details>
   <summary>Image (click to show)</summary>
@@ -170,7 +170,7 @@ Slash commands library for Discord library discordia.
 
 A series of addons that helps art and video makers to do job easier and faster.
 
-One of the biggest tool is LocRotScale -- tool to manipulate in-game objects like in Blender.
+One of the biggest tools is LocRotScale -- a tool to manipulate in-game objects like in Blender.
 
 https://user-images.githubusercontent.com/5685050/142083569-4f881a0a-9703-4bc1-bc21-5b7c304172cc.mp4
 
@@ -212,7 +212,7 @@ I stuck on some level and decided to bruteforce it to see if it was even possibl
 
 Fork of a Garry's Mod addon.
 
-Using my fork the addon increased speed in about 20% and stopped freezing by huge amounts of computations.
+Using my fork, the addon increased speed in about 20% and stopped freezing by huge amounts of computations.
 
 ## Program for making Garry's Mod addons easier
 ### *https://github.com/GitSparTV/AddonForge_obsolete*
