@@ -7,8 +7,6 @@ Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 ## [Lua Portfolio](lua-portfolio.md)
 ## [С++ Portfolio](https://github.com/GitSparTV/Yandex.Practicum.CPP)
 
-<img src="https://www.codewars.com/users/GitSparTV/badges/small">
-
 My Projects:
 -
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns)** — A tool to learn and analyze Lua Patterns.
