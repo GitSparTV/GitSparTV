@@ -183,7 +183,7 @@ Before university bot I made a bot (with the same configuration) that was fetchi
 </details>
 
 ## C++ iterators
-### `https://gist.github.com/GitSparTV/474f71bc18b50e97664cc6db2d033cc8`
+### *https://gist.github.com/GitSparTV/474f71bc18b50e97664cc6db2d033cc8*
 
 C++ iterators implementation in Lua.
 
