@@ -125,12 +125,20 @@ Later on a pack of ideas was combined into [concept 1.0](https://github.com/GitS
 ### *https://github.com/GitSparTV/GmodLibraries*
 
 Libraries for Garry's Mod I made while being an owner of a playable server.
-Contains network wrappers, text formatting and manipulating functions (supports unicode).
+Contains network wrappers, text formatting and manipulating functions (supports unicode), json-based database library, user profile library and more.
 
 ## Advent Of Code 2020
 ### *https://github.com/GitSparTV/Files/tree/master/aoc2020*
 
 My solutions to [Advent Of Code 2020](https://adventofcode.com/2020) -- coding event with daily challenges with text-based algorithms.
+
+## Codewars
+
+I complete challenges on Codewars in Lua.
+
+[See my solutions](https://www.codewars.com/users/GitSparTV/)
+
+<img src="https://www.codewars.com/users/GitSparTV/badges/small">
 
 ## University bot
 ### *https://github.com/GitSparTV/Files/tree/master/UniBot*
