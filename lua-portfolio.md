@@ -11,7 +11,7 @@ Developing my own Lua course that covers everything from basic things up to Lua 
 
 Developing [my own Lua-derived language](https://github.com/GitSparTV/LLLua) made in LuaJIT that compiles to bytecode.
 
-I worked in Lua 5.1, LuaJIT, Garry's Mod Lua, Love2D, Solar2D (Corona2D), Nelua, Luvit.
+I worked in Lua 5.1, LuaJIT, Garry's Mod Lua, Love2D, Solar2D (Corona2D), Nelua, Luvit and NodeMCU (eLua).
 
 # Contibutions
 
