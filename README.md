@@ -5,7 +5,7 @@ Discord: Spar#6665
 Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 
 ## [Lua Portfolio](lua-portfolio.md)
-## [С++ Portfolio](cpp-portfolio.md)
+## [С++ Portfolio](https://github.com/GitSparTV/Yandex.Practicum.CPP)
 
 <img src="https://www.codewars.com/users/GitSparTV/badges/small">
 
@@ -14,18 +14,18 @@ My Projects:
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns)** — A tool to learn and analyze Lua Patterns.
 - **[Lua Infographics](https://github.com/GitSparTV/lua-infographics)** — Collection of infographics dedicated to Lua (Some serious and just for fun).
 - **[LuaJIT Benchmarks](https://gitspartv.github.io/LuaJIT-Benchmarks)** — A page about optimizing Lua by benchmarking several variants of the same code and finding the best one (among them).
-- **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the furure version ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/master/0.1)).
+- **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the future version ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/master/0.1)).
 - **[luamemprof](https://github.com/GitSparTV/lmemprof)** — Memory profiler module for Lua and LuaJIT.
 - **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server + Lua minidump read library.
-- **[discordia-slash](https://github.com/GitSparTV/discordia-slash)** — Discordia extension for slash commands.
+- **[discordia-slash](https://github.com/GitSparTV/discordia-slash)** — Discordia's extension for slash commands.
 - **[lua-postgres](https://github.com/GitSparTV/lua-postgres)** — WIP Luvit Postgres library, will be used by Toolgun bot.
-- **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and movie makers.
-- **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead but libraries can be used/refactored.
+- **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and moviemakers.
+- **[My GMod Libraries](https://github.com/GitSparTV/GmodLibraries)** — Public libraries I made for my GMod server. Server is dead, but libraries can be used/refactored.
 - **[University admission advisor](https://github.com/GitSparTV/GitSparTV/blob/main/lua-portfolio.md#unversity-admission-advisor)** — Bot written in Lua with VK API that downloads lists of applicants from different universities with my specialization, parses them and calculates the chance to pass.
 - **[UniBot](https://github.com/GitSparTV/Files/tree/master/UniBot)** — Bot written in Lua with VK API that gives information about the schedule, next lesson and other things.
 - **[Love2D Framework](https://github.com/GitSparTV/Files/tree/master/Love2D/Framework)** — Framework with GUI, timers and texture loading libraries based on GMod API.
 - **[LuaCUE](https://github.com/GitSparTV/LuaCUE)** — Corsair Utility Engine module for Lua written in C++.
-- **[SparTask](https://github.com/GitSparTV/SparTask)** — Windows taskbar replacement for focusing on specific task, allows to put only necessary icons.
+- **[SparTask](https://github.com/GitSparTV/SparTask)** — Windows taskbar replacement for focusing on specific task, allows putting only necessary icons.
 
 *[See all repositories...](https://github.com/GitSparTV?tab=repositories)*
 
@@ -56,7 +56,7 @@ Small projects:
 - **[globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
 - **[Langston's Ant Art](https://github.com/GitSparTV/Files/tree/master/Love2D/LangtonsAnt)** — Texture generator using Langston's Ant method, written in Love2D.
 - **[Bruteforcer for a task from School 21](https://github.com/GitSparTV/Files/tree/master/Love2D/School21)** — Task I failed to do by hand. Wrote a bruteforcer for it. Written in Love2D.
-- **[Lua Workshopper](https://github.com/GitSparTV/Files/tree/master/Lua%20Workshopper)** — My program for making Workshop addons more easier. Written in Lua.
+- **[Lua Workshopper](https://github.com/GitSparTV/Files/tree/master/Lua%20Workshopper)** — My program for making Workshop addons easier. Written in Lua.
 - **[Windows 10 Derma Skin](https://github.com/GitSparTV/Files/tree/master/Windows%2010%20Derma%20Skin)** — Example skin made for [my guide on GMod Wiki](https://wiki.facepunch.com/gmod/Derma_Skin_Creation).
 - **[gm_sales](https://github.com/GitSparTV/gm_sales)** — My unfinished gamemode for GModStore Gamemode Competition 2020.
 - **[cavefight](https://github.com/GitSparTV/cavefight)** — My improved fork of Cavefight gamemode from GModStore Gamemode Competition 2020.
@@ -70,12 +70,19 @@ My contributions:
 - **[Nelua multiple switch case addition](https://github.com/edubart/nelua-lang/pull/24)** — Adds multiple switch cases and make `do` optional for Nelua.
 - **[Nelua intial documentation](https://github.com/edubart/nelua-lang/pull/27)** — Adds intial documentation for Nelua, including differences with Lua std.
 - **[GMod addon "Make Animatable" improvement](https://github.com/robotboy655/gmod-addons/pull/2)** — Fixes prop_effects not working with "Make Animatable" tool.
-- **[LibEXIF for luapower](https://github.com/luapower/libexif/pull/1)** — Bindings for LibEXIF for luapower.
+- **[LibEXIF for luapower](https://github.com/luapower/libexif/pull/1) [second PR](https://github.com/luapower/libexif/pull/2)** — Bindings for LibEXIF for luapower.
 - **[Fixing GMad list of ignored files](https://github.com/Facepunch/gmad/pull/26)** — Added `desktop.ini` to GMad to ignored files.
 - **[Wiremod fonts](https://github.com/wiremod/wire/pull/2002)** — Fixes Wiremod invalid fonts to be valid. 
 - **[GMod SKINs](https://github.com/Facepunch/garrysmod/pull/1641)** — Fixes SKIN using global variable `SKIN` instead of `self`.
 - **[GMod net.WriteArray](https://github.com/Facepunch/garrysmod/pull/1655)** — Adds net.WriteArray and `net.ReadArray` as partial replacement for `net.WriteTable`.
-- **[GMod achievements improvement](https://github.com/Facepunch/garrysmod/pull/1684)** — Changed achivement networking from SendLua to proper networking.
+- **[GMod achievements improvement](https://github.com/Facepunch/garrysmod/pull/1684)** — Changed achievement networking from SendLua to proper networking.
+- **[Use binary mode since we return bytecode not text](https://github.com/everyday-as/gluac/pull/3)** - 
+- **[Add discordia-slash](https://github.com/discord/discord-api-docs/pull/2415)** — Adding my discordia-slash into official Discord library list
+- **[allow sorter function to be passed to toArray](https://github.com/SinisterRectus/Discordia/pull/274)** - toArray method couldn't sort by a specified comparator
+- **[Fix Date.fromISO not reading timezone](https://github.com/SinisterRectus/Discordia/pull/275)** - 
+- **[Optimizations](https://github.com/SinisterRectus/Discordia/pull/276)** - 
+- **[VPC Script Syntax Highlighting](https://github.com/wbond/package_control_channel/pull/8320)** - 
+
 
 ### Issues:
 **Facepunch/garrysmod-issues**
@@ -83,13 +90,15 @@ My contributions:
 - **[PaintManual cuts negative coordinates of other 3D2D after rendering itself](https://github.com/Facepunch/garrysmod-issues/issues/4375)**
 - **[env_entity_dissolver blames a player for the kill.](https://github.com/Facepunch/garrysmod-issues/issues/4422)**
 - **[surface.DrawPoly crashes when no table provided](https://github.com/Facepunch/garrysmod-issues/issues/4399)**
+- **[con_* convars are not protected](https://github.com/Facepunch/garrysmod-issues/issues/4890)**
 - **[m_bDisableTabbing locks keyboard input on the DTextEntry.](https://github.com/Facepunch/garrysmod-issues/issues/4689)**
 - **[sound.Generate doesn't clear the registry](https://github.com/Facepunch/garrysmod-issues/issues/4082)**
-- **[vcollide_wireframe is not reset across the sessions](https://github.com/Facepunch/garrysmod-issues/issues/4557)**
 - **[Empty error duplicates the previous error](https://github.com/Facepunch/garrysmod-issues/issues/4515)**
+- **[vcollide_wireframe is not reset across the sessions](https://github.com/Facepunch/garrysmod-issues/issues/4557)**
 - **[resource.AddFile ignores resource/ folder including](https://github.com/Facepunch/garrysmod-issues/issues/3406)**
 - **[GMod freezes render after some time](https://github.com/Facepunch/garrysmod-issues/issues/4415)**
 - **[Console doesn't support Cyrillic characters](https://github.com/Facepunch/garrysmod-issues/issues/4454)**
+- **[undo library can't see difference between LAN-Instances](https://github.com/Facepunch/garrysmod-issues/issues/3730)**
 
 **Facepunch/garrysmod-requests**
 - **[Replace or renew new backgrounds for the main menu.](https://github.com/Facepunch/garrysmod-requests/issues/1574)**
@@ -105,7 +114,7 @@ My contributions:
 - **[Add linemode and maxChars arguments for File:ReadLine()](https://github.com/Facepunch/garrysmod-requests/issues/1389)**
 - **[Add render.SetDrawBlend](https://github.com/Facepunch/garrysmod-requests/issues/1620)**
 - **[Add thickness for surface.DrawLine](https://github.com/Facepunch/garrysmod-requests/issues/1679)**
-- **[Add "Material Design Icons" into the game](https://github.com/Facepunch/garrysmod-requests/issues/1596)**
+- **[Improve math.IntToBin efficiency](https://github.com/Facepunch/garrysmod-requests/issues/1463)**
 
 **LuaJIT/LuaJIT**
 - **[GC does sweeps even when stopped](https://github.com/LuaJIT/LuaJIT/issues/675)**
@@ -138,11 +147,21 @@ My contributions:
 **danielga/gm_sourcenet**
 - **[invalid number of bits to read (-2147483648 is not between 0 and 32)](https://github.com/danielga/gm_sourcenet/issues/29)**
 - **[player_connect and player_disconnect are not called](https://github.com/danielga/gm_sourcenet/issues/30)**
+- **[MAX_STREAMS is not exported to Lua](https://github.com/danielga/gm_sourcenet/issues/31)**
+
+**danielga/gmsv_serversecure**
+- **[1.5.26 Windows | serversecure.EnableThreadedSocket crashes the game bug](https://github.com/danielga/gmsv_serversecure/issues/35)**
+
+**wiremod/wire**
+- **[Wrong font usage.](https://github.com/wiremod/wire/issues/2000)**
 
 **raysan5/raylib**
 - **[[core] Mouse movements are bound to the screen resolution](https://github.com/raysan5/raylib/issues/1392)**
 
 **sublimelsp/LSP-lua**
 - **[lua-language-server can't write/read settings file](https://github.com/sublimelsp/LSP-lua/issues/15)**
+
+**SinisterRectus/Discordia**
+- **[[dev] Client:createInteractionResponse requires payload.data. Should be optional](https://github.com/SinisterRectus/Discordia/issues/301)**
 
 [![HitCount](http://hits.dwyl.com/GitSparTV/GitSparTV.svg?style=flat)](http://hits.dwyl.com/GitSparTV/GitSparTV)
