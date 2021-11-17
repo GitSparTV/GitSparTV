@@ -13,7 +13,7 @@ Developing [my own Lua-derived language](https://github.com/GitSparTV/LLLua) mad
 
 I worked in Lua 5.1, LuaJIT, Garry's Mod Lua, Love2D, Solar2D (Corona2D), Nelua, Luvit and NodeMCU (eLua).
 
-# Contibutions
+# Contributions
 
 ## LuaJIT Benchmarks
 ### *https://github.com/GitSparTV/LuaJIT-Benchmarks*
@@ -33,7 +33,6 @@ The 3rd edition will look like this:
     <img src="https://github.com/GitSparTV/LuaJIT-Benchmarks/raw/3rd_edition/3rd_edition_demo.png">
   </p>
 </details>
-  
 
 ## Lua Patterns
 ### *https://github.com/GitSparTV/lua-patterns*
@@ -49,6 +48,8 @@ Currently shows explanation of the pattern, has hints, warnings and reports erro
 Collection of infographics and data about Lua.
 
 For example [top 25 popular .lua file names](https://github.com/GitSparTV/lua-infographics/blob/main/lua-code/lua-code.md#top-25-filenames), [the activity of Lua authors of lua-l mailing list](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#total-emails), [how do people spell Lua? Lua vs LUA](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#lua-word-spelling) 
+
+---
 
 # Lua C API
 
@@ -87,7 +88,9 @@ Allows to get all parameters and fully control Logitech wheel.
 ## LuaCUE
 ### *https://github.com/GitSparTV/LuaCUE*
 
-App that runs Lua file with preloaded iCUE SDK module.
+App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mices and keyboards).
+
+---
 
 # Code
 
@@ -127,6 +130,18 @@ Later on a pack of ideas was combined into [concept 1.0](https://github.com/GitS
 Libraries for Garry's Mod I made while being an owner of a playable server.
 Contains network wrappers, text formatting and manipulating functions (supports unicode), json-based database library, user profile library and more.
 
+## Love2D Framework
+### *https://github.com/GitSparTV/Files/tree/master/Love2D/Framework*
+
+Love2D framework based on Garry's Mod API for image, GUI, I/O and thread stuff.
+
+<details>
+  <summary>Image (click to show)</summary>
+  <p>
+    <img src="https://user-images.githubusercontent.com/5685050/140625867-90549370-4580-4a70-8a8c-040ef5d810fa.gif" width="50%" height="50%">
+  </p>
+</details>
+
 ## Advent Of Code 2020
 ### *https://github.com/GitSparTV/Files/tree/master/aoc2020*
 
@@ -165,29 +180,10 @@ Before university bot I made a bot (with the same configuration) that was fetchi
   </p>
 </details>
 
-## Love2D Framework
-### *https://github.com/GitSparTV/Files/tree/master/Love2D/Framework*
+## C++ iterators
+### `https://gist.github.com/GitSparTV/474f71bc18b50e97664cc6db2d033cc8`
 
-Love2D framework based on Garry's Mod API for image, GUI, I/O and thread stuff.
-
-<details>
-  <summary>Image (click to show)</summary>
-  <p>
-    <img src="https://user-images.githubusercontent.com/5685050/140625867-90549370-4580-4a70-8a8c-040ef5d810fa.gif" width="50%" height="50%">
-  </p>
-</details>
-
-## Bruteforcer for the level from School 21
-### *https://github.com/GitSparTV/Files/tree/master/Love2D/School21*
-
-To get into [School 21 by Sberbank](https://21-school.ru/) you need to complete tasks and levels.
-
-I stuck on some level and decided to bruteforce it to see if it was even possible
-
-<details>
-  <summary>Image (click to show)</summary>
-    <img src="https://user-images.githubusercontent.com/5685050/140622968-660e1c29-db43-430e-b17a-6fbdf7f0e11f.gif" width="50%" height="50%">
-</details>
+C++ iterators implementation in Lua.
 
 ## Discord bot libraries
 ### *https://github.com/GitSparTV/gg.gmod-bot-public*
@@ -220,6 +216,30 @@ https://user-images.githubusercontent.com/5685050/142083733-a78a7e77-f0ec-4e12-9
 Addon for Garry's Mod about electricity.
 
 https://user-images.githubusercontent.com/5685050/142084773-f41abf5a-2f47-4871-a51f-e8c7ca92c2bd.mp4
+
+## Garry's mod addon: gm_sales
+### *https://github.com/GitSparTV/gm_sales*
+
+Gamemode for Garry's Mod I was developing for GModStore Gamemode Competition.
+
+## Langston's Ant art generator
+### *https://github.com/GitSparTV/Files/tree/master/Love2D/Framework*
+
+Langston's Ant implementation in Love2D that generates art.
+
+https://user-images.githubusercontent.com/5685050/140621217-24c9c659-4c8a-4065-8c3d-3cd6d09780d6.mp4
+
+## Bruteforcer for the level from School 21
+### *https://github.com/GitSparTV/Files/tree/master/Love2D/School21*
+
+To get into [School 21 by Sberbank](https://21-school.ru/) you need to complete tasks and levels.
+
+I stuck on some level and decided to bruteforce it to see if it was even possible
+
+<details>
+  <summary>Image (click to show)</summary>
+    <img src="https://user-images.githubusercontent.com/5685050/140622968-660e1c29-db43-430e-b17a-6fbdf7f0e11f.gif" width="50%" height="50%">
+</details>
 
 ## Optimization of Garry's Mod addon
 ### *https://github.com/GitSparTV/cavefight*
