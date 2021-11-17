@@ -60,3 +60,5 @@ Allows to get all parameters and fully control Logitech wheel.
 ### *https://github.com/GitSparTV/LuaCUE*
 
 App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mices and keyboards).
+
+[![HitCount](http://hits.dwyl.com/GitSparTV/cpp-portfolio.svg?style=flat)](http://hits.dwyl.com/GitSparTV/cpp-portfolio)
