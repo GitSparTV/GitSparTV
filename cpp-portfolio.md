@@ -12,6 +12,8 @@ I also coded a Linux program, Arduino programs and modules with Lua C API.
 ## Yandex.Praktikum
 ### *https://github.com/GitSparTV/Yandex.Practicum.CPP*
 
+https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png
+
 Projects I was making during Yandex.Praktikum "C++ Developer" course.
 
 The course teaches C++ fundamentals and idiomatics, from basic logic up to multithreading, move semantics, remaking STL containers and more.
@@ -36,6 +38,8 @@ New concept will dump what structure exactly are sitting in the memory (like tab
 ## RemPos
 ### *https://github.com/GitSparTV/gmsv_rempos*
 
+
+
 Garry's Mod C++ module written with evhttp (libevent) for Sensor Logger app for iOS.
 
 iOS app reads device accelerometer, gyroscope and magnetic field data and sends it to the server open by evhttp.
@@ -45,19 +49,16 @@ evhttp saves the latest information about each parameter and informs Lua new dat
 ## LuaWheel
 ### *https://github.com/GitSparTV/LuaWheel*
 
+<img src="https://github.com/GitSparTV/LuaWheel/raw/master/LuaWheelDemo.gif">
+
 Lua module written in C++ with Logitech Wheel SDK.
 
 Allows to get all parameters and fully control Logitech wheel.
 
-<details>
-  <summary>Demo in Love2D (click to show)</summary>
-  <p>
-    <img src="https://github.com/GitSparTV/LuaWheel/raw/master/LuaWheelDemo.gif">
-  </p>
-</details>
-
 ## LuaCUE
 ### *https://github.com/GitSparTV/LuaCUE*
+
+https://user-images.githubusercontent.com/5685050/142698638-164dd8ae-3e4f-4198-b3af-a210abdf9e74.mp4
 
 App with Lua runtime with preloaded module for communicating with iCUE SDK (Corsair mice and keyboards).
 
