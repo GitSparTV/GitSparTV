@@ -20,6 +20,15 @@ The course teaches C++ fundamentals and idiomatics, from basic logic up to multi
 
 To see more information, see the repo page.
 
+## Contractor
+### *https://gist.github.com/GitSparTV/4f122876ca1ead0ef04f4d9bdc489f61*
+
+Multithreaded task splitter.
+
+Contractor has one function and one work type. Each worker gets work from the queue.
+
+Was used to compute `n!` algorithm efficiency.
+
 ## globalize
 ### *https://github.com/GitSparTV/globalize*
 
