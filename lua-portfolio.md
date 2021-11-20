@@ -124,6 +124,19 @@ One of the biggest tools is LocRotScale -- a tool to manipulate in-game objects 
 
 Love2D framework based on Garry's Mod API for image, GUI, I/O and thread stuff.
 
+## Discord bot libraries
+### *https://github.com/GitSparTV/gg.gmod-bot-public*
+
+https://user-images.githubusercontent.com/5685050/142735572-86d10f4c-d05d-49cf-b6bd-dd79a721b2fe.mp4
+
+<img src="https://user-images.githubusercontent.com/5685050/142735616-1d98744f-19af-48aa-a2e4-94eb92b0ecde.png" width="50%">
+
+Libraries of "Toolgun" bot that moderates official Garry's Mod Discord server. (Full code can be requested)
+
+Bot contains, reaction-based dialogs, MDMP parser and analyzer, command handler, spam filter and more.
+
+Written with discordia library using Luvit framework.
+
 ## Advent Of Code 2020
 ### *https://github.com/GitSparTV/Files/tree/master/aoc2020*
 
@@ -134,28 +147,18 @@ My solutions to [Advent Of Code 2020](https://adventofcode.com/2020) -- coding e
 
 C++ iterators implementation in Lua.
 
-## Discord bot libraries
-### *https://github.com/GitSparTV/gg.gmod-bot-public*
+## MergeSort and BinaryInsertionSort algorithms
+### *https://gist.github.com/GitSparTV/0b15a698d4b8b7f8be70e9f262a7468d*
+### *https://gist.github.com/GitSparTV/6b5ae920557b7147ae9c29e63d9f3842*
 
-Libraries of "Toolgun" bot that moderates official Garry's Mod Discord server. (Full code can be requested)
-
-Bot contains, reaction-based dialogs, MDMP parser and analyzer, command handler, spam filter and more.
-
-Written with discordia library using Luvit framework.
+Sorting algorithms rewritten from C++. 
 
 ## Discord's slash commands support for Discordia
 ### *https://github.com/GitSparTV/discordia-slash*
 
+![image](https://user-images.githubusercontent.com/5685050/142735423-5a9064b7-013d-4eef-a874-eec544117dc8.png)
+
 Slash commands library for Discord library discordia.
-
-## Garry's Mod addon: EMod
-### *https://github.com/GitSparTV/EMod*
-
-https://user-images.githubusercontent.com/5685050/142084773-f41abf5a-2f47-4871-a51f-e8c7ca92c2bd.mp4
-
-![hl2_2018-06-25_02-49-02](https://user-images.githubusercontent.com/5685050/142708744-f16378a2-9495-42be-b9cd-ebb151badcb9.png)
-
-Addon for Garry's Mod about electricity.
 
 ## Garry's mod addon: gm_sales
 ### *https://github.com/GitSparTV/gm_sales*
@@ -165,6 +168,15 @@ https://user-images.githubusercontent.com/5685050/142698166-4c07bb4e-7b01-4178-9
 https://user-images.githubusercontent.com/5685050/142698258-a1982cee-9f97-4a8f-bfc3-718200b20c3d.mp4
 
 Gamemode for Garry's Mod I was developing for GModStore Gamemode Competition.
+
+## Garry's Mod addon: EMod
+### *https://github.com/GitSparTV/EMod*
+
+https://user-images.githubusercontent.com/5685050/142084773-f41abf5a-2f47-4871-a51f-e8c7ca92c2bd.mp4
+
+![hl2_2018-06-25_02-49-02](https://user-images.githubusercontent.com/5685050/142708744-f16378a2-9495-42be-b9cd-ebb151badcb9.png)
+
+Addon for Garry's Mod about electricity.
 
 ## Codewars
 
