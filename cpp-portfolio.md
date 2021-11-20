@@ -18,7 +18,7 @@ Projects I was making during Yandex.Praktikum "C++ Developer" course.
 
 The course teaches C++ fundamentals and idiomatics, from basic logic up to multithreading, move semantics, remaking STL containers and more.
 
-To see more information, see the repo page.
+See **11** more showcases on the repo page.
 
 ## Contractor
 ### *https://gist.github.com/GitSparTV/4f122876ca1ead0ef04f4d9bdc489f61*
