@@ -12,7 +12,7 @@ I also coded a Linux program, Arduino programs and modules with Lua C API.
 ## Yandex.Praktikum
 ### *https://github.com/GitSparTV/Yandex.Practicum.CPP*
 
-https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png
+<img src="https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png">
 
 Projects I was making during Yandex.Praktikum "C++ Developer" course.
 
@@ -38,9 +38,7 @@ New concept will dump what structure exactly are sitting in the memory (like tab
 ## RemPos
 ### *https://github.com/GitSparTV/gmsv_rempos*
 
-
-
-Garry's Mod C++ module written with evhttp (libevent) for Sensor Logger app for iOS.
+Garry's Mod C++ module written with evhttp (libevent) for Sensor Logger app for iOS (app got deleted).
 
 iOS app reads device accelerometer, gyroscope and magnetic field data and sends it to the server open by evhttp.
 
