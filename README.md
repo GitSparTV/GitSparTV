@@ -12,7 +12,7 @@ My Projects:
 - **[Lua Patterns](https://gitspartv.github.io/lua-patterns)** — A tool to learn and analyze Lua Patterns.
 - **[Lua Infographics](https://github.com/GitSparTV/lua-infographics)** — Collection of infographics dedicated to Lua (Some serious and just for fun).
 - **[LuaJIT Benchmarks](https://gitspartv.github.io/LuaJIT-Benchmarks)** — A page about optimizing Lua by benchmarking several variants of the same code and finding the best one (among them).
-- **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the future version ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/master/0.1)).
+- **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the future version ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/v0.1/0.1)).
 - **[luamemprof](https://github.com/GitSparTV/lmemprof)** — Memory profiler module for Lua and LuaJIT.
 - **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server + Lua minidump read library.
 - **[discordia-slash](https://github.com/GitSparTV/discordia-slash)** — Discordia's extension for slash commands.
