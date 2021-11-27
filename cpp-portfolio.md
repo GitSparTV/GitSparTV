@@ -47,11 +47,11 @@ New concept will dump what structure exactly are sitting in the memory (like tab
 ## RemPos
 ### *https://github.com/GitSparTV/gmsv_rempos*
 
-Garry's Mod C++ module written with evhttp (libevent) for Sensor Logger app for iOS (app got deleted).
+Garry's Mod C++ module written with websocketpp for iOS app Senzor app (by Stanislav Révay).
 
-iOS app reads device accelerometer, gyroscope and magnetic field data and sends it to the server open by evhttp.
+iOS app reads device accelerometer, gyroscope and GPS and pressure data and sends it to the websocket server open by module.
 
-evhttp saves the latest information about each parameter and informs Lua new data is available using multithreading.
+Server stores latest data packet and exposes getters to Lua guarded by mutex.
 
 ## LuaWheel
 ### *https://github.com/GitSparTV/LuaWheel*
