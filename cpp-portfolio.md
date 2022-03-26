@@ -3,9 +3,10 @@
 
 ---
 
-I'm learning C++ in [Yandex.Praktikum](https://practicum.yandex.ru/cpp/) course "C++ Developer" as additional professional education since Feb 2021 (Will graduate in Jan 2022).
+I've learned C++ in [Yandex.Practicum](https://practicum.yandex.ru/cpp/) course "C++ Developer" as additional professional education (2021-2022)
+<img width="686" alt="Screenshot 2022-03-26 at 10 37 20" src="https://user-images.githubusercontent.com/5685050/160229778-e73b12d1-cef2-4619-8ab9-64e9339adf15.png">
 
-I also coded a Linux program, Arduino programs and modules with Lua C API.
+I programmed for Linux, Arduino and modules with Lua C API.
 
 # Code
 
@@ -14,9 +15,9 @@ I also coded a Linux program, Arduino programs and modules with Lua C API.
 
 <img src="https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png">
 
-Projects I was making during Yandex.Praktikum "C++ Developer" course.
+Projects I made during Yandex.Praktikum "C++ Developer" course.
 
-The course teaches C++ fundamentals and idiomatics, from basic logic up to multithreading, move semantics, remaking STL containers and more.
+The course teaches C++ fundamentals and idioms, from basic logic up to multithreading, move semantics, remaking STL containers, making lexers and ASTs and more.
 
 See **11** more showcases on the repo page.
 
