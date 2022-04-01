@@ -11,7 +11,7 @@ I programmed for Linux, Arduino and modules with Lua C API.
 # Code
 
 ## Yandex.Praktikum
-### *https://github.com/GitSparTV/Yandex.Practicum.CPP*
+### *https://github.com/GitSparTV/GitSparTV/blob/main/yandex-practicum-portfolio-stripped.md*
 
 <img src="https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png">
 
@@ -19,7 +19,7 @@ Projects I made during Yandex.Praktikum "C++ Developer" course.
 
 The course teaches C++ fundamentals and idioms, from basic logic up to multithreading, move semantics, remaking STL containers, making lexers and ASTs and more.
 
-See **11** more showcases on the repo page.
+Unfortunately, the repository with the source code is now hidden because I work at Yandex.Practicum and other students might cheat by looking at my code.
 
 ## Contractor
 ### *https://gist.github.com/GitSparTV/4f122876ca1ead0ef04f4d9bdc489f61*
