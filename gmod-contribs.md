@@ -8,6 +8,7 @@
 - Making code-review for other developers in the game community
 - Teaching Lua and Garry's Mod Lua, helping developers for their own projects
 - [Writing documentation and tutorials](https://wiki.facepunch.com/gmod/~userchanges:104786) on public game's wiki
+- [Made C++ module](https://github.com/GitSparTV/gmsv_rempos) that connects phone's gyroscope and accelerometer to the game using websockets.
 
 # Freelance stuff
 - Developed libraries, frameworks, APIs, GUIs and administrative and priviledge systems for clients
