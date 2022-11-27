@@ -199,13 +199,16 @@ It reports the end of the lesson, tells where the next lesson is, who is the spe
 
 <img src="https://user-images.githubusercontent.com/5685050/141104917-939deab4-cdf4-4fc8-87a6-38cfe912357f.png" width="50%" height="50%">
 
-![ShareX_2018-07-27_23-45-03](https://user-images.githubusercontent.com/5685050/142708585-c40b705b-7915-4723-9136-3324f48ddf23.png)
-
-![sublime_text_2018-07-21_14-42-23](https://user-images.githubusercontent.com/5685050/142708609-78ff64a1-88fa-4625-b8c8-aa2b8c710d01.png)
-
-![sublime_text_2018-07-27_23-44-58](https://user-images.githubusercontent.com/5685050/142708626-d5bcd214-9271-4f7f-835f-d2f373a17b9a.png)
-
 Before university bot I made a bot (with the same configuration) that was fetching admission lists from universities, parsing them, finding people across lists and calculating my chance to get passed for that specialty.
+
+## University admission watcher
+### *https://github.com/GitSparTV/Files/tree/master/AdmissionWatcher*
+
+<img width="555" src="https://user-images.githubusercontent.com/5685050/204158820-5daf5d6a-02fc-464a-bb3d-6aeea535f4b4.png">
+
+For my wife and a friend I created a Telegram bot, that fetches the changes in admission lists and compares the last version with the new one.
+
+The differences are reported to telegram channel. Even though I've had not much time to make the bot while it's still relevant, I followed code style, C++ idioms and DRY concept.
 
 ## Langston's Ant art generator
 ### *https://github.com/GitSparTV/Files/tree/master/Love2D/Framework*
