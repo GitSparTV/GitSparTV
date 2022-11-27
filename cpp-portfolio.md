@@ -21,6 +21,15 @@ The course teaches C++ fundamentals and idioms, from basic logic up to multithre
 
 See **11** more showcases on the repo page.
 
+## University admission watcher
+### *https://github.com/GitSparTV/Files/tree/master/AdmissionWatcher*
+
+<img width="555" src="https://user-images.githubusercontent.com/5685050/204158820-5daf5d6a-02fc-464a-bb3d-6aeea535f4b4.png">
+
+For my wife and a friend I created a Telegram bot, that fetches the changes in admission lists and compares the last version with the new one.
+
+The differences are reported to telegram channel. Even though I've had not much time to make the bot while it's still relevant, I followed code style, C++ idioms and DRY concept.
+
 ## Contractor
 ### *https://gist.github.com/GitSparTV/4f122876ca1ead0ef04f4d9bdc489f61*
 
