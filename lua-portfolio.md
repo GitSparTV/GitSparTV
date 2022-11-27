@@ -201,14 +201,7 @@ It reports the end of the lesson, tells where the next lesson is, who is the spe
 
 Before university bot I made a bot (with the same configuration) that was fetching admission lists from universities, parsing them, finding people across lists and calculating my chance to get passed for that specialty.
 
-## University admission watcher
-### *https://github.com/GitSparTV/Files/tree/master/AdmissionWatcher*
-
-<img width="555" src="https://user-images.githubusercontent.com/5685050/204158820-5daf5d6a-02fc-464a-bb3d-6aeea535f4b4.png">
-
-For my wife and a friend I created a Telegram bot, that fetches the changes in admission lists and compares the last version with the new one.
-
-The differences are reported to telegram channel. Even though I've had not much time to make the bot while it's still relevant, I followed code style, C++ idioms and DRY concept.
+See also "[Admission watcher written in C++](https://github.com/GitSparTV/GitSparTV/blob/main/cpp-portfolio.md#university-admission-watcher)".
 
 ## Langston's Ant art generator
 ### *https://github.com/GitSparTV/Files/tree/master/Love2D/Framework*
