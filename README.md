@@ -5,9 +5,12 @@
 * 1 year of commercial development
 * Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/linkedsavva/ (working experience is explained here, but you can also request my CV)
+
+</br>
+
 * **[С++ Portfolio](cpp-portfolio.md)**
 * **[Lua Portfolio](lua-portfolio.md)**
-* Technologies I used in some way: C++, Lua, LuaJIT, Boost, PCRF, C++17, compiler development, CalDAV, Web scraping (University sites, Cian.ru, various property developer sites, hh.ru), 3GPP, C++ reverse-engineering, PostgreSQL, C++20, DSL, Bot development (Discord, Telegram, VK, Pachca), Diameter protocol, Game server and frontend/backend development, assembly, Docker, SOAP API, Optimizations, UML (+Mermaid), Grafana, MySQL, Prometheus, fmt, SQLite, CMake, protobuf, Conan, Source Engine, Luvit, Gamedev, Async, analytics, Raspberry Pi, REST API, Nelua, Python, Coroutines, Webhook, logging, Game UI development, Plain HTML + CSS + JS, Linux, LÖVE, JSON, NodeMCU, Arduino, JavaScript, Groovy, regex, Git, SVG, XML.
+* Technologies I used in some way: C++, Lua, LuaJIT, Boost, Telecom (LTE), C++17, compiler development, CalDAV, Web scraping (University sites, Cian.ru, various property developer sites, hh.ru), 3GPP, C++ reverse-engineering, PostgreSQL, C++20, DSL, Bot development (Discord, Telegram, VK, Pachca), Diameter protocol, Game server and frontend/backend development, assembly, Docker, SOAP API, Optimizations, UML (+Mermaid), Grafana, MySQL, Prometheus, fmt, SQLite, CMake, protobuf, Conan, Source Engine, Luvit, Gamedev, Async, analytics, Raspberry Pi, REST API, Nelua, Python, Coroutines, Webhook, logging, Game UI development, Plain HTML + CSS + JS, Linux, LÖVE, JSON, NodeMCU, Arduino, JavaScript, Groovy, regex, Git, SVG, XML.
 
 My Projects:
 -
