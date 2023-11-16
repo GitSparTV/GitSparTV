@@ -37,8 +37,6 @@ Projects I participated in:
 -
 - **[VSCode GLua Extension](https://github.com/WilliamVenner/vscode-glua-enhanced)** — Helped with making bytecode heatmap, uses **[LLLua](https://github.com/GitSparTV/LLLua/)** bytecode reader rewritten in JS.
 
----
-
 Small projects:
 -
 - **[Advent Of Code 2020](https://github.com/GitSparTV/Files/tree/master/aoc2020)** — My solutions for [Advent Of Code 2020](https://adventofcode.com/2020) written in Lua.
@@ -46,8 +44,6 @@ Small projects:
 - **[globalize](https://github.com/GitSparTV/globalize)** — Simple POSIX program to install programs to `/usr/local/bin/`.
 - **[Langston's Ant Art](https://github.com/GitSparTV/Files/tree/master/Love2D/LangtonsAnt)** — Texture generator using Langston's Ant method, written in Love2D.
 - **[Bruteforcer for a task from School 21](https://github.com/GitSparTV/Files/tree/master/Love2D/School21)** — Task I failed to do by hand. Wrote a bruteforcer for it. Written in Love2D.
-
----
 
 GitHub Stats:
 -
