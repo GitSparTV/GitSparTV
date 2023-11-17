@@ -9,3 +9,5 @@
 <img src="https://user-images.githubusercontent.com/5685050/142723646-1ac12be7-1d33-49f2-8ad1-1ec8200d7b2b.png" width="70%">
 
 <img src="https://user-images.githubusercontent.com/5685050/142723648-c79bb5c6-0091-4ceb-b1f1-9cb849ca0876.png" width="70%">
+
+[![HitCount](https://hits.dwyl.com/GitSparTV/gmod-continue-fix.svg?style=flat-square)](http://hits.dwyl.com/GitSparTV/gmod-continue-fix)
