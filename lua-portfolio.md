@@ -53,7 +53,10 @@ Currently, shows explanation of the pattern, has hints, warnings and reports err
 
 Collection of infographics and data about Lua.
 
-For example [top 25 popular .lua file names](https://github.com/GitSparTV/lua-infographics/blob/main/lua-code/lua-code.md#top-25-filenames), [the activity of Lua authors of lua-l mailing list](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#total-emails), [how do people spell Lua? Lua vs LUA](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#lua-word-spelling) 
+For example [top 25 popular .lua file names](https://github.com/GitSparTV/lua-infographics/blob/main/lua-code/lua-code.md#top-25-filenames), [the activity of Lua authors of lua-l mailing list](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#total-emails), [how do people spell Lua? Lua vs LUA](https://github.com/GitSparTV/lua-infographics/blob/main/lua-popularity/lua-popularity-activity.md#lua-word-spelling)
+
+## Garry's Mod
+Since 2017 I've contributed a lot to Garry's Mod. Check out [this list](gmod-contribs.md) as well.
 
 ---
 
