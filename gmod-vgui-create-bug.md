@@ -13,3 +13,5 @@
 <img src="https://user-images.githubusercontent.com/5685050/142723747-7eecdbdb-745c-4159-88c2-115e7ff8fe37.png" width="70%">
 
 <img src="https://user-images.githubusercontent.com/5685050/142723807-7ec77f13-dee9-490e-b25f-cfc520998c16.png" width="70%">
+
+[![HitCount](https://hits.dwyl.com/GitSparTV/gmod-vgui-create-bug.svg?style=flat-square)](http://hits.dwyl.com/GitSparTV/gmod-vgui-create-bug)
