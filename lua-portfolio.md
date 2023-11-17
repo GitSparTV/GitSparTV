@@ -7,7 +7,7 @@ Started learning in 2017.
 
 Teaching and helping, code-reviewing since 2018. Read "Programming In Lua" book (written by Lua authors).
 
-Developing my own Lua course that covers everything from basic things up to Lua C API. (can be shown on a request).
+Developing my own Lua course that covers everything from basic things up to Lua C API. (can be shown on request).
 
 Developing [my own Lua-derived language](https://github.com/GitSparTV/LLLua) made in LuaJIT that compiles to bytecode.
 
@@ -91,15 +91,9 @@ Later on, a pack of ideas was combined into [concept 1.0](https://github.com/Git
 ## Libraries for Garry's Mod
 ### *https://github.com/GitSparTV/GmodLibraries*
 
-https://user-images.githubusercontent.com/5685050/142705277-2860e4d8-4b57-49ca-8ee6-adc4b2956bc8.mp4
-
 ![2018-07-01_22-40-13](https://user-images.githubusercontent.com/5685050/142708507-fb7d8f14-a3f7-452b-b7d4-524c13d5f7b7.gif)
 
-https://user-images.githubusercontent.com/5685050/142708684-8ebfb8fa-428f-4b3a-87dc-af5d683570e9.mp4
-
 ![2018-06-29_16-49-40](https://user-images.githubusercontent.com/5685050/142708711-95e3bf56-f9a1-4ddf-bb30-60129557b378.gif)
-
-https://user-images.githubusercontent.com/5685050/142708818-a5e73539-cf58-4610-bbbb-8199f2a50440.mp4
 
 ![2018-02-17_20-49-53](https://user-images.githubusercontent.com/5685050/142708866-ad4cae78-b804-478d-b4ed-ff6c51db00a9.gif)
 
@@ -227,12 +221,5 @@ https://user-images.githubusercontent.com/5685050/142703165-4be2b8cb-ba55-4cdb-a
 Fork of a Garry's Mod addon.
 
 Using my fork, the addon increased speed in about 20% and stopped freezing by huge amounts of computations.
-
-## Program for making Garry's Mod addons easier
-### *https://github.com/GitSparTV/AddonForge_obsolete*
-
-https://user-images.githubusercontent.com/5685050/142700037-28be5b91-f56d-48b8-94ef-960757db2468.mp4
-
-App made with LuaPower framework collection to create Garry's Mod addons using program with simple UI. 
 
 [![HitCount](http://hits.dwyl.com/GitSparTV/lua-portfolio.svg?style=flat)](http://hits.dwyl.com/GitSparTV/lua-portfolio)
