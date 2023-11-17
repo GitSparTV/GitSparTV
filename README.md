@@ -33,6 +33,9 @@ My Projects:
 
 *[See all repositories...](https://github.com/GitSparTV?tab=repositories)*
 
+> [!IMPORTANT]
+> Since 2017 I've contributed a lot to Garry's Mod. Check out [this list](gmod-contribs.md) as well.
+
 Projects I participated in:
 -
 - **[VSCode GLua Extension](https://github.com/WilliamVenner/vscode-glua-enhanced)** — Helped with making bytecode heatmap, uses **[LLLua](https://github.com/GitSparTV/LLLua/)** bytecode reader rewritten in JS.
