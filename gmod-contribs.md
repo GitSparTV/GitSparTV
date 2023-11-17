@@ -16,3 +16,5 @@
 - Upgraded alrogithm using coroutines, this fixed long game freezes, the content started generating slowly
 - Optimized clients' code and advised them on optimizations
 - Made code-review for clients
+
+[![HitCount](https://hits.dwyl.com/GitSparTV/gmod-contribs.svg?style=flat-square)](http://hits.dwyl.com/GitSparTV/gmod-contribs)
