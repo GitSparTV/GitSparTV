@@ -10,10 +10,17 @@
 
 * **[С++ Portfolio](cpp-portfolio.md)**
 * **[Lua Portfolio](lua-portfolio.md)**
-<p align="center">Technologies I used in some way
-
-C++, Lua, LuaJIT, Boost, Telecom (LTE), C++17, compiler development, CalDAV, Web scraping (University sites, Cian.ru, various property developer sites, Notion, hh.ru), 3GPP, C++ reverse-engineering/decompilation (x86-64, ARMv7-M), PostgreSQL, C++20, DSL, Bot development (Discord, Telegram, VK, Pachca), Diameter protocol, Game server and frontend/backend development, assembly, Docker, SOAP API, Optimizations, UML (+Mermaid), Grafana, MySQL, Prometheus, fmt, SQLite, CMake, protobuf, Conan, Source Engine, Luvit, Gamedev, Async, analytics, Raspberry Pi, REST API, Websockets, Nelua, Python, Coroutines, Webhook, logging, Game UI development, Plain HTML + CSS + JS, Linux, LÖVE, JSON, NodeMCU, Arduino, JavaScript, Groovy, regex, Git, SVG, XML.
+<details open>
+  <summary>Languages, technologies, stuff, frameworks and tools I've used in some way:</summary>
+  
+* C++, Lua, LuaJIT, C++17, C++20, Python, JavaScript, Plain HTML + CSS + JS, Groovy
+* Boost, telecom (LTE), 3GPP, PostgreSQL, Docker, MySQL, fmt, SQLite, protobuf, Webhook, Coroutines, Async, regex
+* CalDAV, Diameter protocol, Websocket, SOAP API, JSON, REST API, SVG, XML
+* Compiler development, web scraping (University sites, Cian.ru, various property developer sites, Notion, hh.ru), C++ reverse-engineering/decompilation (x86-64, ARMv7-M), DSL, Bot development (Discord, Telegram, VK, Pachca), logging, game server frontend/backend development, optimizations, gamedev, analytics, game UI development
+* Source Engine, Luvit, Raspberry Pi, Nelua, Linux, LÖVE, NodeMCU, Arduino
+* CMake, Conan, Grafana, Prometheus
 </p>
+</details>
 
 My Projects:
 -
