@@ -20,7 +20,7 @@ My Projects:
 - **[LuaJIT Benchmarks](https://gitspartv.github.io/LuaJIT-Benchmarks)** — A page about optimizing Lua by benchmarking several variants of the same code and finding the best one (among them).
 - **[LLLua](https://github.com/GitSparTV/LLLua/)** — My language I plan to develop. See the [concept](https://github.com/GitSparTV/LLLua/blob/master/CONCEPT.md) for the future version ([0.1 version can be already used](https://github.com/GitSparTV/LLLua/tree/v0.1/0.1)).
 - **[luamemprof](https://github.com/GitSparTV/lmemprof)** — Memory profiler module for Lua and LuaJIT.
-- **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — Public part of Toolgun bot run in Garry's Mod official Discord server + Lua minidump read library.
+- **[My Discordia Libraries](https://github.com/GitSparTV/gg.gmod-bot-public)** — The open-sourced part of Toolgun bot developed for the Garry's Mod official Discord server. The server has over 80,000 members as yet replacing the need for additional human moderation for more than 3 years. Includes Lua minidump reader library.
 - **[discordia-slash](https://github.com/GitSparTV/discordia-slash)** — Discordia's extension for slash commands.
 - **[Love2D Framework](https://github.com/GitSparTV/Files/tree/master/Love2D/Framework)** — Framework with GUI, timers and texture loading libraries based on GMod API.
 - **[GodSentTools](https://github.com/GitSparTV/GodSentTools)** — Series of GMod addons, mainly for art and moviemakers.
