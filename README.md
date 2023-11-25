@@ -14,12 +14,11 @@
   <summary>Languages, technologies, stuff, frameworks and tools I've used in some way:</summary>
   
 * C++, Lua, LuaJIT, C++17, C++20, Python, JavaScript, Plain HTML + CSS + JS, Groovy
-* Boost, telecom (LTE), 3GPP, PostgreSQL, Docker, MySQL, fmt, SQLite, protobuf, Webhook, Coroutines, Async, regex
-* CalDAV, Diameter protocol, Websocket, SOAP API, JSON, REST API, SVG, XML
+* Boost, telecom (LTE), 3GPP, PostgreSQL, Docker, MySQL, fmt, SQLite, protobuf, webhook, coroutines, async, regex
+* CalDAV, Diameter protocol, WebSocket, SOAP API, JSON, REST API, SVG, XML
 * Compiler development, web scraping (University sites, Cian.ru, various property developer sites, Notion, hh.ru), C++ reverse-engineering/decompilation (x86-64, ARMv7-M), DSL, Bot development (Discord, Telegram, VK, Pachca), logging, game server frontend/backend development, optimizations, gamedev, analytics, game UI development
 * Source Engine, Luvit, Raspberry Pi, Nelua, Linux, LÖVE, NodeMCU, Arduino
 * CMake, Conan, Grafana, Prometheus
-</p>
 </details>
 
 My Projects:
