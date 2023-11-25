@@ -10,7 +10,7 @@
 
 * **[С++ Portfolio](cpp-portfolio.md)**
 * **[Lua Portfolio](lua-portfolio.md)**
-* Technologies I used in some way: C++, Lua, LuaJIT, Boost, Telecom (LTE), C++17, compiler development, CalDAV, Web scraping (University sites, Cian.ru, various property developer sites, Notion, hh.ru), 3GPP, C++ reverse-engineering, PostgreSQL, C++20, DSL, Bot development (Discord, Telegram, VK, Pachca), Diameter protocol, Game server and frontend/backend development, assembly, Docker, SOAP API, Optimizations, UML (+Mermaid), Grafana, MySQL, Prometheus, fmt, SQLite, CMake, protobuf, Conan, Source Engine, Luvit, Gamedev, Async, analytics, Raspberry Pi, REST API, Websockets, Nelua, Python, Coroutines, Webhook, logging, Game UI development, Plain HTML + CSS + JS, Linux, LÖVE, JSON, NodeMCU, Arduino, JavaScript, Groovy, regex, Git, SVG, XML.
+* Technologies I used in some way: C++, Lua, LuaJIT, Boost, Telecom (LTE), C++17, compiler development, CalDAV, Web scraping (University sites, Cian.ru, various property developer sites, Notion, hh.ru), 3GPP, C++ reverse-engineering/decompilation (x86-64, ARMv7-M), PostgreSQL, C++20, DSL, Bot development (Discord, Telegram, VK, Pachca), Diameter protocol, Game server and frontend/backend development, assembly, Docker, SOAP API, Optimizations, UML (+Mermaid), Grafana, MySQL, Prometheus, fmt, SQLite, CMake, protobuf, Conan, Source Engine, Luvit, Gamedev, Async, analytics, Raspberry Pi, REST API, Websockets, Nelua, Python, Coroutines, Webhook, logging, Game UI development, Plain HTML + CSS + JS, Linux, LÖVE, JSON, NodeMCU, Arduino, JavaScript, Groovy, regex, Git, SVG, XML.
 
 My Projects:
 -
