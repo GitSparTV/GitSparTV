@@ -37,15 +37,14 @@ Bot I developed for mentors to automate and simplify webinars' scheduling (I wor
 Tech: C++, CalDAV, Boost, REST API, SQLite, JSON, XML, Conan
 
 ## Yandex.Praktikum
-### *https://github.com/GitSparTV/Yandex.Practicum.CPP*
 
-<img src="https://github.com/GitSparTV/Yandex.Practicum.CPP/raw/master/TransportCatalogue/svg.png">
+![image](https://github.com/GitSparTV/GitSparTV/assets/5685050/73c4f545-9d2d-4b6b-bae0-8c9d89d821bf)
 
 Projects I made during Yandex.Praktikum "C++ Developer" course.
 
 The course teaches C++ fundamentals and idioms, from basic logic up to multithreading, move semantics, remaking STL containers, making lexers and ASTs and more.
 
-See **11** more showcases on the repo page.
+To see **11** more showcases, email me. The repo is hidden to prevent plagiarism.
 
 ## University admission watcher
 ### *https://github.com/GitSparTV/Files/tree/master/AdmissionWatcher*
