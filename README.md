@@ -1,10 +1,9 @@
 # Spar
 
-* 6 years in Lua
-* 3 years in C++
-* 1 year of commercial development
+* Lua since 2017
+* C++ since 2020
+* 2 years of commercial development in highload systems.
 * Email: [developspartv@gmail.com](mailto:developspartv@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/linkedsavva/ (working experience is explained here, but you can also request my CV)
 
 </br>
 
